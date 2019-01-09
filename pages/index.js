@@ -6,6 +6,7 @@ const Index = (props) => (
 <Layout>
   <div>
     <h1>Welcome to bitzPrice</h1>
+    <p>Check current Bitcoin rates</p>
     <Prices bpi={props.bpi.bpi} />
   </div>
 </Layout>
