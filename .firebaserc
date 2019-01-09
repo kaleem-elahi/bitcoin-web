@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "bitcoin-web-nextjs",
+    "default": "bitcoin-web-nextjs"
+  }
+}

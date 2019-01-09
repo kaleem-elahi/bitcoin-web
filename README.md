@@ -11,7 +11,7 @@ Step 2: `cd bitcoin-web`
 
 Step 3: `npm install`
 
-Step 4: `npm run next`
+Step 4: `npm run dev`
 
 ####  DONE 👏
 
